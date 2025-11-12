@@ -1,0 +1,40 @@
+<!--Karen Meyer-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Karen Meyer Travel Page</title>
+</head>
+<script language="JavaScript">
+</script>
+<body>
+<h1>My Travels</h1>
+
+<h2>Favorite Spots</h2>
+<p><ol>
+	<li>Death Valley,CA</li>
+	<li>Nags Head, NC</li>
+	<li>Siesta Key, FL</li>
+	<li>Park City, UT</li>
+	<li>Sleeping Bear Dunes, MI</li>
+</ol>
+</p>
+<h2> Some of the Things I Liked</h2>
+<ul>
+	<li>Death Valley was raw and desolate and breathtaking</li>
+	<li>Surf was rough in Nag's Head</li>
+	<li>White, fine sand in Siesta Key</li>
+	<li>Great skiing in Park City</li>
+	<li>Ran a half marathon in MI</li>
+</ul>
+<h3>Future Plans</h3>
+
+function myFunction(){
+	document.getel
+}
+
+<br>
+<br>
+<br>
+<br>
+</body>
+</html>
