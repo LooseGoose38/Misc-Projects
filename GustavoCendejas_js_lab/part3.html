@@ -1,0 +1,31 @@
+<html>
+<head>
+<!--Gustavo Cendejas-->
+<!-- Internal Javascript Function -->
+<script language="javaScript">
+var x;
+var y;
+var answer;
+x=prompt("Enter a number ");
+y=prompt("Enter a number ");
+document.write("You entered "+x+" and " +y);
+document.write("<br>");
+answer=prompt("Enter the sum of "+x+" and " +y)
+document.write(" You entered " + answer);
+document.write("<br>");
+x=parseInt(x);
+y=parseInt(y);
+var correctAnswer= x + y;
+if(answer == correctAnswer){
+	document.write("That is correct!");
+}
+else{
+	document.write("That is not correct. The correct answer is " + correctAnswer);
+}
+</script>
+<!-- Internal Javascript Function -->
+<script language="JavaScript" src="javascript.js" type="text/javascript"/>
+</head>
+<body>
+</body>
+</html>

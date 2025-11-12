@@ -1,0 +1,38 @@
+<html>
+<head>
+<!--Gustavo Cendejas-->
+<!-- Internal Javascript Function -->
+<script language="javaScript">
+alert("Welcome to Simplified Rock-Paper-Scissors Game");
+var Rock;
+var Paper;
+var Scissors;
+Rock=("R");
+Paper=("P");
+Scissors=("S");
+var player1=prompt("Player 1,Enter Shape \nUse 'R' for Rock, 'P' for paper and 'S' for Scissors");
+document.write(" Player 1 picked " + player1 + "<br>");
+var player2=prompt("Player 2,Enter Shape \nUse 'R' for Rock, 'P' for paper and 'S' for Scissors");
+document.write(" Player 2 picked " + player2 + "<br>");
+if (player1==player2){
+	document.write("Draw!");
+} else if (
+	(player1==Rock && player2==Scissors)||
+	(player1==Scissors && player2==Paper)||
+	(player1==Paper && player2==Rock)
+){ 
+	document.write("Player 1 Wins!");
+} else if (
+	(player2==Rock && player1==Scissors)||
+	(player2==Scissors && player1==Paper)||
+	(player2==Paper && player1==Rock)
+){
+	document.write(" Player 2 Wins!");
+}
+</script>
+<!-- Internal Javascript Function -->
+<script language="JavaScript" src="javascript.js" type="text/javascript"/>
+</head>
+<body>
+</body>
+</html>
