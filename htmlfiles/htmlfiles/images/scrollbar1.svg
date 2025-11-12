@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 13" width="16" height="13">
+	<title>scrollbar1</title>
+	<defs>
+		<image  width="16" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAANAgMAAADd1Qa3AAAAAXNSR0IB2cksfwAAAAxQTFRF1NDIQEBA////gICAestBIgAAACFJREFUeJxjZGBgYGTUamBgZlR4wMBLNGF/gOEfYyhQMwBxdAyDI5/PhAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="0" y="0"/>
+</svg>

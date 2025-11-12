@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 13" width="15" height="13">
+	<title>welcome page</title>
+	<defs>
+		<image  width="15" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAANCAMAAABBwMRzAAAAAXNSR0IB2cksfwAAAEtQTFRF9fb/+vr+wL7Ov8XEvr6+wb/CxcXFwsHFv8HCw8PIeYKIwcG/w8PDv8G4AQMDwsPAwb+8wcHBwMDAyMPK/fv1x8fHfn58goKBgX2CLdfQwAAAAJJJREFUeJw9jssOwjAMBNebhqQtlB74/0/kUPVB1CaLubAHS+O1RjYY/pE50XyKzdiC/cJkJ89UOl3KzmMLODIrsSs5P64yoMaGyibnp9YY3VZTYXXuS/5gwAGFFt3PcQvJ+2NadPM+yHrUTtinLdjrPV1EiXJh8XuzGauUiHyujuC8IJBdQ1jNF/3dIEr2+375AlDNPYdqpNVkAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 2" href="#img1" x="0" y="0"/>
+</svg>
